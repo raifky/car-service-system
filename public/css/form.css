@@ -1,0 +1,92 @@
+/* .card{
+    width: 150%;
+    position: relative;
+    left: -25%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    
+} */
+
+.card1{
+    width: 130%;
+    position: relative;
+    left: -25%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+}
+
+.card2{
+    width: 130%;
+    position: relative;
+    left: -18%;
+    right: 0%;
+    top: -1%;
+    bottom: 0;
+    
+  }
+  #konfirmasi{
+    position: relative;
+    width: 200px;
+  }
+  #tidak{
+    position: relative;
+    left: 300px;
+    bottom: 45px;
+    width: 200px;
+  }
+  .nopol{
+    position: relative;
+    left: 225px;
+    top: -70px;
+  }
+  .deskripsi{
+    position: relative;
+    top: -70px;
+  }
+  .judul_identitas{
+    position: relative;
+    top: -75px;
+  }
+  .kilometer_kembali{
+    position: relative;
+    left: 225px;
+    top: -70px;
+  }
+  .saran{
+    position: relative;
+    top: -70px;
+  }
+  .confirm_form{
+    position: relative;
+    top: -70px;
+  }
+  /* .kendaraan{
+    position: relative;
+    left: 220px;
+    right: 0;
+    top: -70px;
+    bottom: 0;
+  }
+  .jenis{
+    position: relative;
+    
+  }
+  .nopol{
+    position: relative;
+    left: 0;
+    right: 0;
+    top: -70px;
+    bottom: 0;
+  }
+  .deskripsi{
+    position: relative;
+    left: 0;
+    right: 0;
+    top: -70px;
+    bottom: 0;
+  } */
+  
